@@ -1,7 +1,4 @@
 You're welcome to my page<br>
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/fOVGTYyYtV6Ra/giphy.gif" width="100"/>
-</div>
 🌱 I’m currently learning HTML/CSS/JS <br>
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/pEYHfqSl1dflC/giphy.gif" width="100"/>
